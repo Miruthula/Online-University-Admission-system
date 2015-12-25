@@ -1,0 +1,415 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 2 Apr, 2015, 8:49:02 PM
+    Author     : Admin
+*/
+
+body.background 
+{ 
+    background: #493D26 no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    min-width: 600px;
+    background-attachment: scroll;
+}
+#header 
+{
+  background: url(Logo.png) no-repeat;
+  padding-top:  200px;
+  height: 125px;
+ }
+ #logo 
+{
+  
+  text-align: center;
+  color: #000000;
+ }
+
+#logo p
+{
+   font: bold 24px "arial nararow", arial, sans-serif;
+}
+#logo p.p1
+{
+   font: bold 15px "arial nararow", arial, sans-serif;
+      
+}
+ #header1 
+{
+  background:#0E0E0E;
+  height: 25px;
+  text-align: center;
+  font-size: 18px;
+ }
+ #header2
+ {
+     background-color:#827839;
+     height: 490px;
+ }
+ 
+   
+  a
+ {
+   color:black;
+   font:16px "arial nararow", arial, sans-serif;
+          
+ }
+
+ 
+  #footer
+ {
+    background-color: #493D26;
+    height: 20px;
+    text-align: center;
+    padding-top: 22px;
+    padding-left: 100px;
+    
+  }
+ 
+ #Contentbody
+ {
+     background-color:#0E0E0E;
+     height: 490px;
+     
+  }
+ 
+  #sidebarleft
+ {
+     background:#827839;
+     float: left;
+     height:490px;
+     width: 200px;
+ }
+  #sidebarcenter
+ {
+     background: #827839;
+     float: left;
+     height:490px;
+     width: 1050px;
+     display: inline;
+     color: black;
+     font:16px "arial nararow", arial, sans-serif;
+     overflow-y: scroll;
+     overflow: auto;
+ }
+ #sidebarcenter button
+ {
+     display: inline;
+ }
+ #sidebarcenter h3
+ {
+         color: black;
+ }
+ #sidebarcenter p
+ {
+     color:black;
+     font: 15px "arial nararow", arial, sans-serif;
+     padding-left: 20px;
+     text-align: justify;
+ }
+  #sidebarcenter p.pp
+ {
+     color:white;
+     font: bold 15px "arial nararow", arial, sans-serif;
+     padding-left: 20px;
+     
+ }
+
+  #sidebarcenter h4
+ {
+     padding-left: 45px;
+     text-align: center;
+     color:white;
+     font: bold 17px "arial nararow", arial, sans-serif;
+     
+ }
+ 
+ #sidebarcenter img
+ {
+    
+     height: 250px;
+     width: 350px;
+     text-align: center;
+ }
+ #sidebarcenter img.img1
+ {
+    
+     height: 180px;
+     width: 550px;
+     text-align: center;
+ }
+  #sidebarcenter img.img2
+ {
+    
+     height: 250px;
+     width: 250px;
+     text-align: center;
+ }
+ #sidebarcenter form
+ {
+     display: inline;
+   
+ }
+ #sidebarcenter img.image1
+ {
+     height: 100px;
+     width: 100px;
+ }
+ 
+ 
+ #sidebarcenter p.p2
+  {
+     color:white;
+     font: 15px "arial nararow", arial, sans-serif;
+     text-align: left;
+     padding-left: 15px;
+ }
+ 
+ #sidebarcenter p.p3
+  {
+     color:white;
+     font: bold 15px "arial nararow", arial, sans-serif;
+     text-align: left;
+     padding-left: 330px;
+ }
+ 
+  #sidebarcenter input.one
+  {
+     
+    position: relative;
+    left:325px;
+ }
+ #center
+ {
+    background: #827839;
+    position: absolute;
+    height:490px;
+     width: 1100px;
+     height:490px;
+     width: 1100px;
+     display: inline;
+     color: black;
+     font:16px "arial nararow", arial, sans-serif;
+     overflow-y: scroll;
+     overflow: auto;
+ }
+ #center h2
+ {
+    background: #827839;
+      color: black;
+    right: 80px;
+    top: 30px;
+ }
+  #center img
+ {
+    
+     height: 250px;
+     width: 350px;
+     text-align: center;
+ }
+ #center1
+ {
+     font:16px "arial nararow", arial, sans-serif;
+ }
+  #center1 img
+ {
+    
+     height: 250px;
+     width: 650px;
+     text-align: center;
+ }
+ #center img.michael_faraday
+ {
+    
+     height: 180px;
+     width: 550px;
+     text-align: center;
+     
+ }
+   #center p
+   {
+     color:black;
+     font: 15px "arial nararow", arial, sans-serif;
+     padding-left: -10px;
+     text-align: left; 
+     margin-right: auto;
+     width: 50%;
+   }
+   #center button 
+   {
+     background-color:#493D26;
+     
+     
+   }
+ #catalog
+ {
+    text-align: left;
+    
+    font: 25px "arial nararow", arial, sans-serif;
+	
+ }
+  #center img.circuit_header
+  {
+     height: 20px;
+     width: 10px;
+   vertical-align: text-top;
+  }
+#center img.civil_hd
+{
+   height: 20px;
+   width: 500px;
+   vertical-align: text-top;
+}
+#center img.mech
+{
+  height: 20px;
+  width: 10px;
+  vertical-align: text-top;  
+}
+#logo1
+{
+  position: absolute;
+  left: 580px;
+  width: 250px;
+  color: black;
+  font: bold 11px "arial nararow", arial, sans-serif;
+}
+
+#placeholder
+{
+  position: absolute;
+  top: 30px;
+  right: 20px;
+  color:white;
+  font:bold 10px "arial nararow", arial, sans-serif;
+ }
+ #place
+ {
+  position: absolute;
+  top: 60px;
+  right: 20px;
+  color:white;
+  font:bold 10px "arial nararow", arial, sans-serif;
+     
+ }
+  #place1
+ {
+  position: absolute;
+  top: 60px;
+  right: 20px;
+  color:white;
+  font:bold 10px "arial nararow", arial, sans-serif;
+     
+ }
+ #placeholder a
+{
+
+  float:left;
+  color:white;
+  font:bold 10px "arial nararow", arial, sans-serif;
+ }
+ 
+ 
+
+ #sidebarright
+ {
+     background: #0E0E0E url(Image2.jpg) no-repeat;
+     float: right;
+     height:490px;
+     width: 250px;
+ }
+ 
+ #Contact p
+ {
+  padding-left: 25px;
+  text-align:center;
+  color: #FFFFFF;
+  font:14px "arial nararow", arial, sans-serif;
+  width: 200px;
+ }
+
+ 
+table
+{
+   
+    padding: 18px;
+}
+
+td
+{
+    border: 1px solid black;
+    font:14px "arial nararow", arial, sans-serif;
+    color:black;
+    background-color: #B0D3EE;
+    padding: 8px;
+}
+th
+{
+    font:16px "arial nararow", arial, sans-serif;
+    border: 1px solid black;
+    padding: 8px;
+    background-color: gray;
+    color: black;
+}
+tabbody 
+{ 
+    font-size: 80%; 
+    font-family: 'Lucida Grande', Verdana, Arial, Sans-Serif; 
+}
+ul#tabs 
+{ 
+    list-style-type: none; 
+    margin: 30px 0 0 0; 
+    padding: 0 0 0.3em 0; 
+}
+ul#tabs li 
+{ 
+    display: inline; 
+}
+ul#tabs li a 
+{ 
+    color: #42454a; 
+    background-color: #dedbde; 
+    border: 1px solid #c9c3ba; 
+    border-bottom: none; 
+    padding: 0.3em; 
+    text-decoration: none; 
+}
+ul#tabs li a:hover 
+{ 
+    background-color: #f1f0ee; 
+}
+ul#tabs li a.selected 
+{ 
+    color: #000; 
+    background-color: #f1f0ee; 
+    font-weight: bold; 
+    padding: 0.7em 0.3em 0.38em 0.3em; 
+}
+div.tabContent 
+{ 
+    border: 1px solid #c9c3ba; 
+    padding: 0.5em; 
+    background-color: #f1f0ee; 
+}
+div.tabContent.hide 
+{ 
+    display: none; 
+}
+.dividerline2
+{
+    BORDER-BOTTOM: #002659 2px solid;
+    MARGIN-LEFT: 5px;
+    MARGIN-RIGHT: 10px
+}
+.noliststyle
+{ 
+    list-style-type: none; 
+}
+
